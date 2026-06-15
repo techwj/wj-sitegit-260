@@ -1,0 +1,70 @@
+{
+  "siteId": "uneven-shoulder-adjustment",
+  "generatedAt": "2026-06-05T15:18:22.866984",
+  "categories": [
+    "beginner-uneven-shoulder-adjustment",
+    "advanced-uneven-shoulder-adjustment",
+    "tips-uneven-shoulder-adjustment",
+    "history-uneven-shoulder-adjustment",
+    "trending-uneven-shoulder-adjustment",
+    "tutorials-uneven-shoulder-adjustment"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-uneven-shoulder-adjustment",
+      "category_name": "Beginner Uneven Shoulder Adjustment"
+    },
+    {
+      "category_slug": "advanced-uneven-shoulder-adjustment",
+      "category_name": "Advanced Uneven Shoulder Adjustment"
+    },
+    {
+      "category_slug": "tips-uneven-shoulder-adjustment",
+      "category_name": "Uneven Shoulder Adjustment Tips"
+    },
+    {
+      "category_slug": "history-uneven-shoulder-adjustment",
+      "category_name": "Uneven Shoulder Adjustment History"
+    },
+    {
+      "category_slug": "trending-uneven-shoulder-adjustment",
+      "category_name": "Trending Uneven Shoulder Adjustment"
+    },
+    {
+      "category_slug": "tutorials-uneven-shoulder-adjustment",
+      "category_name": "Uneven Shoulder Adjustment Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "uneven-shoulder-adjustment",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "name": "Montserrat",
+      "family": "'Montserrat', sans-serif",
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap');"
+    },
+    "layout": "minimal",
+    "border_radius": "8px",
+    "box_shadow": "none",
+    "article_card_style": "list",
+    "header_style": "centered",
+    "footer_style": "detailed",
+    "modules": [
+      "recent-comments",
+      "category-highlights",
+      "newsletter-signup",
+      "trending-articles"
+    ],
+    "site_title": "Uneven Shoulder Adjustment Central",
+    "articles_per_row": 4
+  }
+}
